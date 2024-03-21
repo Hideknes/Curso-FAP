@@ -1,4 +1,14 @@
-body{
-    background-color: white;
+section table thead tr th{
+    color: #FFFFFF;
+    background-image: linear-gradient(to right, black, white);
     
-} 
+}
+
+section, header {
+    
+    color: #FFFFFF;
+    justify-content: center;
+    margin:20px;
+    background-image: linear-gradient(to right, black, white);
+}
+
